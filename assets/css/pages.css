@@ -2130,7 +2130,7 @@ ul.Custom-V_-_list > li {
 	text-align:left;
 }
 ul.Custom-V_-_list > li::before {
-	content:'\C6';
+	content:'\25A0';
 	position:absolute;
 	display:inline-block;
 	left:0px;
@@ -2465,7 +2465,7 @@ ul._1366-x-768-H_-_list > li {
 	text-align:left;
 }
 ul._1366-x-768-H_-_list > li::before {
-	content:'\C6';
+	content:'\25A0';
 	position:absolute;
 	display:inline-block;
 	left:0px;
