@@ -627,7 +627,7 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 		transform:rotate(180deg);
 	}
 	#viewer-options-wrap.collapsed #viewer-options-thumb-images { display:none; }
-	#viewer-options-bar #view-toggle { display:block; }
+	#viewer-options-bar #view-toggle { display:none; }
 	#viewer_progress_bar {bottom:120px;}
 	#viewer-options-bar{height:120px;display:block;}
 	#viewer-pagecount{right:24px;width:auto;}
